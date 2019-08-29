@@ -1,0 +1,11 @@
+.base{
+    width: auto;
+    height: 500px;
+    background: -webkit-linear-gradient(royalblue, lightsteelblue);
+}
+
+.content{
+    width: 900px;
+    height: 400px;
+    background: aliceblue;
+}
